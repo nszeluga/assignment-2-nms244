@@ -12,6 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ## About Me
 - I am a 3rd year Ph.D Student in Plant Biology
 - I have a cat named Bentley
+  + He is an Orange Tabby
+  + He is 3 years old
+  + He is very large
 - I am from New Jersey
 
 
