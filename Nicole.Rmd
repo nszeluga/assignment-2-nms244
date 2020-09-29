@@ -9,4 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## About Me
+- I am a 3rd year Ph.D Student in Plant Biology
+- I have a cat named Bentley
+- I am from New Jersey
+
 
