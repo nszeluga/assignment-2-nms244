@@ -1,0 +1,19 @@
+---
+title: "Asignment 2 Website"
+author: "Nicole Szeluga and Adriana Hernandez"
+date: "9/29/2020"
+output: html_document
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Personal Githubs
+- Nicole https://github.com/nszeluga
+- Adriana https://github.com/aherbotany
+
+<br>
+
+![__Bentley is the cutest cat__](Bentley.jpg)
+
+
