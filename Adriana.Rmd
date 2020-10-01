@@ -1,0 +1,18 @@
+---
+title: "Adriana"
+author: "Adriana Hernandez"
+date: "9/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About:
+1. I am a 4th year PhD Candidate in Plant Biology at Cornell University  
+2. Things that keep me sane through graduate school:  
++ Yoga  
++ Cooking and baking with my partner
++ Painting with acrylic and sometimes watercolor
+3. I hope to return to California as a research botanist  
