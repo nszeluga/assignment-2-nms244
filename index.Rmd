@@ -1,8 +1,5 @@
 ---
-title: "Asignment 2 Website"
-author: "Nicole Szeluga and Adriana Hernandez"
-date: "9/29/2020"
-output: html_document
+Nicole Szeluga Assignment #2
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
