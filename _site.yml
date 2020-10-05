@@ -2,7 +2,7 @@ name: Nicole Szeluga
 output_dir: "."
 output:
   html_document:
-    theme: Cosmo
+    theme: cosmo
     highlight: textmate
     toc: true 
     toc_float: true
