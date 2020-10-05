@@ -1,9 +1,16 @@
+name: Nicole Szeluga
 output_dir: "."
+output:
+  html_document:
+    theme: Cosmo
+    highlight: textmate
+    toc: true 
+    toc_float: true
 navbar:
   left:
     - text: "Home"
       href: index.html
     - text: "Nicole"
-      href: maria.html
+      href: Nicole.html
     - text: "Adriana"
-      href: nina.html
+      href: Adriana.html
